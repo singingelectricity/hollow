@@ -1,18 +1,4 @@
-html {
-
-background: url(https://cdn.discordapp.com/attachments/438367536866918400/644921921095598101/background.png) no-repeat center center fixed;
-
--webkit-background-size: 100% auto;
-
--moz-background-size: 100% auto;
-
--ms-background-size: 100% auto;
-
--o-background-size: 100% auto;
-
-background-size: 100% auto;
-
-}
+body {background: url("https://cdn.discordapp.com/attachments/438367536866918400/644921921095598101/background.png") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
 }
